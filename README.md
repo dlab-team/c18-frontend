@@ -2,4 +2,8 @@
 
 C18 Frontend Repositorio
 
-Josemaria Naranjo
+### Miembros del Equipo FrontEnd:
+
+- Manuel Perez (Full Stack)
+- Josemaria Naranjo
+
