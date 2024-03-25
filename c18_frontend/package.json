@@ -1,7 +1,7 @@
 {
   "name": "c18_frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +9,16 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "format": "prettier --write ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlab-team/c18-frontend"
+  },
+  "author": "luis Sanchez <hlcxpl@gmail.com>, Sebastian Flores Y. <berendicto@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "20.11.1",
+    "npm": "10.2.4"
   },
   "dependencies": {
     "react": "^18.2.0",
