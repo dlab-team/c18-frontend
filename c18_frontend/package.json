@@ -1,7 +1,7 @@
 {
   "name": "c18_frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +9,33 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "format": "prettier --write ./src"
+  },
+  "authors": [
+    {
+      "name": "Luis Sanchez",
+      "email": "hlcxpl@gmail.com",
+      "url": "https://hlcxpl.github.io/"
+    },
+    {
+      "name": "Sebastian Flores Y.",
+      "email": "berendicto@gmail.com",
+      "url": ""
+    },
+    {
+      "name": "josemaria naranjo",
+      "email": "josemnaranjoc@gmail.com",
+      "url": ""
+    },
+    {
+      "name": "Irene Loaiza",
+      "email": "iloaizabetancourt@gmail.com",
+      "url": ""
+    }
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": "20.11.1",
+    "npm": "10.2.4"
   },
   "dependencies": {
     "react": "^18.2.0",
