@@ -6,4 +6,4 @@ C18 Frontend Repositorio
 
 - Manuel Perez (Full Stack)
 - Josemaria Naranjo
-
+- Sebastian Flores
